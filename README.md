@@ -35,7 +35,7 @@ Currently focused on:
 
 <p align="center">
   <a href="https://github.com/kishan09k/-Tom-Jerry-Style-Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kishan09k&repo=Tom-Jerry-Style-Portfolio&bg_color=0f0f0f&title_color=ffffff&text_color=b3b3b3&icon_color=ffffff&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kishan09k&repo=-Tom-Jerry-Style-Portfolio&bg_color=0f0f0f&title_color=ffffff&text_color=b3b3b3&icon_color=ffffff&hide_border=true" />
   </a>
 </p>
 
