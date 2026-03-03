@@ -34,8 +34,8 @@ Currently focused on:
 ## Featured Projects
 
 <p align="center">
-  <a href="https://github.com/250190105025-design/Tom-Jerry-Style-Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=250190105025-design&repo=Tom-Jerry-Style-Portfolio&bg_color=0f0f0f&title_color=ffffff&text_color=b3b3b3&icon_color=ffffff&hide_border=true" />
+  <a href="https://github.com/kishan09k/Tom-Jerry-Style-Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kishan09k&repo=Tom-Jerry-Style-Portfolio&bg_color=0f0f0f&title_color=ffffff&text_color=b3b3b3&icon_color=ffffff&hide_border=true" />
   </a>
 </p>
 
@@ -44,8 +44,8 @@ Currently focused on:
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=250190105025-design&show_icons=true&hide_border=true&bg_color=0f0f0f&title_color=ffffff&text_color=b3b3b3&icon_color=ffffff" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=250190105025-design&hide_border=true&background=0f0f0f&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=b3b3b3&sideLabels=b3b3b3&dates=b3b3b3" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kishan09k&show_icons=true&hide_border=true&bg_color=0f0f0f&title_color=ffffff&text_color=b3b3b3&icon_color=ffffff" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishan09k&hide_border=true&background=0f0f0f&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=b3b3b3&sideLabels=b3b3b3&dates=b3b3b3" height="150"/>
 </p>
 
 ---
@@ -53,7 +53,7 @@ Currently focused on:
 ## Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=250190105025-design&bg_color=0f0f0f&color=ffffff&line=ffffff&point=ffffff&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kishan09k&bg_color=0f0f0f&color=ffffff&line=ffffff&point=ffffff&hide_border=true" />
 </p>
 
 ---
