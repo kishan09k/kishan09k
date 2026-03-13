@@ -44,6 +44,12 @@ Currently focused on:
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kishan09k&repo=crystallization-simulator&bg_color=0f0f0f&title_color=ffffff&text_color=b3b3b3&icon_color=ffffff&hide_border=true" />
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/kishan09k/molecular-design-platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kishan09k&repo=molecular-design-platform&bg_color=0f0f0f&title_color=ffffff&text_color=b3b3b3&icon_color=ffffff&hide_border=true" />
+  </a>
+</p>
+
 -
 
 ## GitHub Statistics
